@@ -15,6 +15,7 @@
 #- Error Correction - cointegration trajectories
 #- Granger-causality using F-statistics
 #- Diagnostic and stability test results
+#-Impulse Response Functions
 
 
 #R Code
